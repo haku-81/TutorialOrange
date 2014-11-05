@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialorange",
+  "name": "Tutorial Orange",
+  "description": "A tutorial to begin modding from youtube.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.orangetutorial.com",
+  "updateUrl": "",
+  "authorList": ["Martijn, Wuppy, Haku"],
+  "credits": "Wuppy and Martijn for the tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

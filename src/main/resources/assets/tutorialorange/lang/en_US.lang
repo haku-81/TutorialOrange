@@ -1,0 +1,11 @@
+tile.tutorialorange_orangeBlock.name=Orange Block
+
+tile.tutorialorange_multiBlock.firstMeta.name=First Meta Block
+tile.tutorialorange_multiBlock.secondMeta.name=Second Meta Block
+tile.tutorialorange_multiBlock.thirdMeta.name=Third Meta Block
+tile.Smasher.name=Day Changer
+
+
+
+item.tutorialorange_itemorange.name=Orange Item
+item.tutorialorange_orangefood.name=Orange Food
